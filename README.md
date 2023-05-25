@@ -1,6 +1,6 @@
 # iLoveIndianFood
 
-A multi-pronged approach to classify food image data. 
+Exploring deep learning solutions to classify food images. 
 
 Data Sources: 
 - Kaggle: https://www.kaggle.com/datasets/iamsouravbanerjee/indian-food-images-dataset
